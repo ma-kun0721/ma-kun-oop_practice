@@ -19,6 +19,7 @@
 class Kid{
   private $name;
   private $sex;
+  
 
   
   function __construct(argument)
